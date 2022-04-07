@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neway2021
 - 👀 I’m interested in robotics, UAV and hardware programming 
-- 🌱 I’m currently learning master of electrical control engineering 
+- 🌱 I’m currently postgraduate of electrical control engineering 
 - 💞️ I’m looking to collaborate on any research problem related with drone
 - 📫 How to reach me neway.yifru@astu.edu.et, +251912050062
 
